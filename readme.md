@@ -16,7 +16,7 @@ Certifique-se de ter os seguintes itens instalados na sua máquina antes de inic
 
 ### 1. Clone o repositório
 
-`git clone` https://github.com/seu-usuario/seu-repositorio.git
+`git clone` https://github.com/theussilvas/TODOList---SpringBoot.git
 
 `cd` seu-repositorio
 
