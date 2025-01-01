@@ -18,7 +18,7 @@ Certifique-se de ter os seguintes itens instalados na sua máquina antes de inic
 
 `git clone` https://github.com/theussilvas/TODOList---SpringBoot.git
 
-`cd` seu-repositorio
+`cd` pasta onde foi clonado
 
 ### 2. Configure o banco de dados
 
