@@ -23,7 +23,7 @@ Certifique-se de ter os seguintes itens instalados na sua máquina antes de inic
 ### 2. Configure o banco de dados
 
  1. Crie um banco de dados chamado `todolist`
- 2. Atualize as configurações no `application.yml`
+ 2. Atualize as configurações no `application.properties`
 
 ```Properties
 spring.datasource.username=seu_usuario
